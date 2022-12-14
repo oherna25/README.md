@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roselle Mata 
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Osmar Hernandez
 
 #### Hi I'm a Computer Science Student at the University of Illinois at Chicago (graduating spring 2023). Aspiring for a role in Software Engineering or related field. I have wide variety of technical skills and 5+ years work experience in customer service--providing personalized solutions to distinct project/supervisor/customer demands, working in a busy environment and in a diverse team of 2-50+ associates. i work great well by myself or with a tean.
 
