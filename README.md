@@ -27,7 +27,7 @@
 
 📫 Reach me: https://www.linkedin.com/in/osmar-hernandez/ 
 
-📝 Resume: [ [https://drive.google.com/file/d/1o3BMrYAqXwypgHQO0kMvaFh6C82D5uKb/view?usp=sharing * ](https://drive.google.com/file/d/1Ey1keapwLMTe0gRxhX6kP9qIMFbdJ75k/view?usp=share_link)](https://drive.google.com/file/d/1ozOPMm3Vtk0inwNvi7dNjTMnuAUelxyR/view?usp=share_link)
+📝 Resume: (https://drive.google.com/file/d/1ozOPMm3Vtk0inwNvi7dNjTMnuAUelxyR/view?usp=share_link)
  
 
 ⚡ Fun fact: I have read over 2500 chapters of manga * 
