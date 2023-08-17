@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Osmar Hernandez
 
-#### Hi I'm a Computer Science Student at the University of Illinois at Chicago (graduating spring 2023). Aspiring for a role in Software Engineering or related field. I have wide variety of technical skills and 5+ years work experience in customer service--providing personalized solutions to distinct project/supervisor/customer demands, working in a busy environment and in a diverse team of 2-50+ associates. i work great well by myself or with a tean.
+#### Hi I'm a Computer Science Student at the University of Illinois at Chicago (graduating spring 2023). Aspiring for a role in Software Engineering or related field. I have wide variety of technical skills and 5+ years work experience in customer service--providing personalized solutions to distinct project/supervisor/customer demands, working in a busy environment and in a diverse team of 2-50+ associates. i work great well by myself or with a team.
 
 
 🌍  I'm based in Chicago (can relocate or work remote) * 
@@ -57,10 +57,6 @@ Display movies
 
 
 - C++ : Animated Bar Chart: 
-
-https://replit.com/join/tyiwybudvj-rosellemata2
-
-https://github.com/rosemata/animated_bar_chart
 
 
 - C : Functions-operating-on-2D-Arrays-and-Strings : 
