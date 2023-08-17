@@ -75,18 +75,18 @@ https://github.com/rosemata/Functions-operating-on-2D-Arrays-and-Strings
 - 👯 Looking to collaborate on any Entry Level Project
 - 🤔 Interested in a SWE internship
 - 💬 Ask me about C/C++/Python/SQL/Java/F# or any tech related stuff
-- 📫 Reach me: http://www.linkedin.com/in/rtmata or roselle.tmata@gmail.com
+- 📫 Reach me: http://www.linkedin.com/in/osmar-hernandez or osmarh001@gmail.com
 - 📝 Resume: https://drive.google.com/file/d/1epuJ9SQLAmu4mN20UCRIylO1jTeq5Nst/view?usp=sharing
 - ⚡ Fun fact: avid Yu-gi-oh player
 
 ## Projects
 
 
-- SQL + Python : Analyzing Chicago Transit Authority database in Python: 
+- SQL + Python : Analyzing Chicago Transit Authority database in Python 
 
 - Java : Coffee Maker App: 
 
-https://github.com/rosemata/Coffee-Maker
+
 
 - F# + C# + Processing: Image Processing with F#: 
 
