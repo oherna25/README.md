@@ -61,7 +61,6 @@ Display movies
 
 - C : Functions-operating-on-2D-Arrays-and-Strings : 
 
-https://github.com/rosemata/Functions-operating-on-2D-Arrays-and-Strings
 
 
 
