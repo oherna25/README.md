@@ -5,7 +5,7 @@
 
 🌍  I'm based in Chicago (can relocate or work remote) * 
 
-✉️  You can contact me at [osmarh001.@gmail.com](osmarh001.@gmail.com) * 
+
 
 👩🏻‍💻  Classes I have Taken
 
