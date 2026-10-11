@@ -2,9 +2,11 @@
 
 First-generation college student. I build apps and games.
 
+Python · TypeScript · Swift · JavaScript · HTML · C++ · SQL
+
 ## Now
 
-Two products in active development. Those repositories are private. The links below are the public app and the public support page.
+Arbiter and DuoBrowser are in active development. Both repositories are private, so the links below go to the public app and the public support page.
 
 ### [Arbiter](https://tcg-decision-app.vercel.app)
 
@@ -22,7 +24,7 @@ iOS 17 and later.
 
 [Privacy policy and support](https://oherna25.github.io/duobrowser-legal/)
 
-## Open these
+## In the browser
 
 ### [Tokyo, 1.00 sq mi](https://oherna25.github.io/tokyo-1sqmi/)
 
@@ -52,10 +54,6 @@ A three.js version of Fruit Ninja. The fruit are AI company logos. Drag to slice
 | [Morse code machine](https://github.com/oherna25/Hernande_Iwaki_MorseCodeMachine) | C++ and Arduino Morse translator, built with a partner. |
 | [Wearables glove lab](https://github.com/oherna25/Wearables-Glove-Lab) | Processing sketches from a wearable-glove lab. |
 | [Landing page](https://oherna25.github.io/apple-landing/) | A short index of the same work, in an Apple-inspired layout. |
-
-## Stack
-
-Python, TypeScript, Swift, JavaScript, HTML, C++, SQL.
 
 ## Contact
 
