@@ -1,91 +1,62 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Osmar Hernandez
+# Osmar Hernandez
 
-#### Hi I'm a Computer Science Student at the University of Illinois at Chicago (graduating spring 2023). Aspiring for a role in Software Engineering or related field. I have wide variety of technical skills and 5+ years work experience in customer service--providing personalized solutions to distinct project/supervisor/customer demands, working in a busy environment and in a diverse team of 2-50+ associates. i work great well by myself or with a team.
+First-generation college student. I build apps and games.
 
+## Now
 
-🌍  I'm based in Chicago (can relocate or work remote) * 
+Two products in active development. Those repositories are private. The links below are the public app and the public support page.
 
+### [Arbiter](https://tcg-decision-app.vercel.app)
 
+Explainable deck decisions for Yu-Gi-Oh! and Pokémon. Build or paste a list, then read a score that says why it landed there: opening-hand odds, role counts, gaps, and specific swaps. A constraint solver can retune counts without inventing a new archetype. Two lists from the same game can be compared on consistency, interaction, and setup. Arbiter does not play the cards out, and it does not estimate a match win rate.
 
-👩🏻‍💻  Classes I have Taken
+FastAPI, Next.js, and Python. An unofficial fan tool. Not affiliated with Konami or The Pokémon Company.
 
-   * [ ] CS 411 - Artificial Intelligence
-   * [ ] CS 401 - Computer Algorithms
-   * [ ] CS 422 - User Interface Design and Programming
-   * [ ] CS 478 - Software Development for Mobile Platforms (Android)
-   * [ ] CS 484 - Web Development
-   * [ ] CS 387 - Flutter based app development
-   * [ ] CS 389 - Wearables
+[Open Arbiter](https://tcg-decision-app.vercel.app)
 
-🌱  I'm learning Swift with IOS Mobile Development course with Codepath](http://www.codepath.org/courses/ios-mobile-development) * 
+### DuoBrowser
 
-🤝  I'm open to collaborating on any interesting projects! *
+A multi-screen web browser for the iPhone Duo, written in SwiftUI and WebKit. It keeps three independent sessions — cover, inner left, and inner right — with badges for which screen a page belongs to, a live map of the layout, and bookmarks that can restore every panel at once. An ephemeral mode clears cookies, storage, and history when the app leaves the foreground.
 
-🤔 Interested in mentorship programs * 
+iOS 17 and later.
 
-💬 Ask me about C++| C | Java | Python| F#| JavaScript| CSS| HTML| MySQL| Processing| Arduino or any tech related stuff * 
+[Privacy policy and support](https://oherna25.github.io/duobrowser-legal/)
 
-📫 Reach me: https://www.linkedin.com/in/osmar-hernandez/ 
+## Open these
 
-📝 Resume: (https://drive.google.com/file/d/1ozOPMm3Vtk0inwNvi7dNjTMnuAUelxyR/view?usp=share_link)
- 
+### [Tokyo, 1.00 sq mi](https://oherna25.github.io/tokyo-1sqmi/)
 
-⚡ Fun fact: I have read over 2500 chapters of manga * 
+One square mile of downtown Tokyo, centered on Shimbashi, as an interactive 3D model in a single HTML file. Building footprints, streets, parks, and the elevated expressway come from OpenStreetMap: about 4,400 buildings, not a procedural stand-in. Orbit the district, walk it at street level, or switch to a map, then click a building for its name and height.
 
-🏅 I may not be the smartest, but I can work the hardest. There is no task that i will not be able to conplete. 
+[Open the model](https://oherna25.github.io/tokyo-1sqmi/) · [Source](https://github.com/oherna25/tokyo-1sqmi)
 
-### Skills
+### [Tetris Retro](https://oherna25.github.io/tetris-retro/)
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> </p> 
+Tetris in one HTML file. Film grain, scanlines, procedural chiptune, and neon CRT blocks. It uses a 7-bag randomizer, hold, a ghost piece, and stores a best score in the browser. Keyboard on a desktop, swipe on a phone.
 
-## Projects
+[Play](https://oherna25.github.io/tetris-retro/) · [Source](https://github.com/oherna25/tetris-retro)
 
+<img src="https://github.com/oherna25/tetris-retro/raw/main/screenshot-play.png" alt="Tetris Retro mid-game, with neon blocks on a CRT-style board" width="720">
 
+### [AI Ninja](https://oherna25.github.io/ai-ninja/)
 
-Display movies 
+A three.js version of Fruit Ninja. The fruit are AI company logos. Drag to slice them, and avoid the bombs.
 
+[Play](https://oherna25.github.io/ai-ninja/) · [Source](https://github.com/oherna25/ai-ninja)
 
-- SQL + Python : Analyzing Chicago Transit Authority database in Python: 
+## Earlier
 
+| Project | What it is |
+| --- | --- |
+| [Provenance Guard](https://github.com/oherna25/ai201-project4-provenance-guard) | AI 201 project. A Flask service that labels text as human-written or AI-generated, keeps an audit log, and accepts an appeal. |
+| [Morse code machine](https://github.com/oherna25/Hernande_Iwaki_MorseCodeMachine) | C++ and Arduino Morse translator, built with a partner. |
+| [Wearables glove lab](https://github.com/oherna25/Wearables-Glove-Lab) | Processing sketches from a wearable-glove lab. |
+| [Landing page](https://oherna25.github.io/apple-landing/) | A short index of the same work, in an Apple-inspired layout. |
 
-- Java : Coffee Maker App: 
+## Stack
 
+Python, TypeScript, Swift, JavaScript, HTML, C++, SQL.
 
-- F# + C# + Processing: Image Processing with F#: 
+## Contact
 
-- C : Build simple shell compiler with C
-
-
-- C++ : Animated Bar Chart: 
-
-
-- C : Functions-operating-on-2D-Arrays-and-Strings : 
-
-
-
-
-<!--- ### Hi, Osmar Hernandez 👩🏻‍💻 Senior Computer Science student at University of Illinois (Chicago)
-
-- 🌱 Currently learning HTML, CSS, Javascript 
-- 👯 Looking to collaborate on any Entry Level Project
-- 🤔 Interested in a SWE internship
-- 💬 Ask me about C/C++/Python/SQL/Java/F# or any tech related stuff
-- 📫 Reach me: http://www.linkedin.com/in/osmar-hernandez or osmarh001@gmail.com
-- 📝 Resume: https://drive.google.com/file/d/1epuJ9SQLAmu4mN20UCRIylO1jTeq5Nst/view?usp=sharing
-- ⚡ Fun fact: avid Yu-gi-oh player
-
-## Projects
-
-
-- SQL + Python : Analyzing Chicago Transit Authority database in Python 
-
-- Java : Coffee Maker App: 
-
-
-
-- F# + C# + Processing: Image Processing with F#: 
-
-- C : Build simple shell compiler with C
-
-
-- C++ : Animated Bar Chart: 
+[LinkedIn](https://www.linkedin.com/in/osmar-hernandez/). Open to collaborating on apps and games.
